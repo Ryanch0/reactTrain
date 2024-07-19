@@ -62,6 +62,7 @@ return (
 //     console.log(stock10) // 엔비디아
 
 
+
   var object ={
     f1 : () => {
       console.log(this)
